@@ -1,6 +1,4 @@
-# Custom_FileSystem_with_Indexed_Access
-
-## Table File Operations
+# Table File Operations
 
 This project provides a library and a set of executables for working with file-based tables. It allows creating, deleting, and managing table files, rows, and columns, along with user-accessible functions for reading and writing records. The project ensures that all functions and binaries can be used system-wide, just like standard utilities.
 
